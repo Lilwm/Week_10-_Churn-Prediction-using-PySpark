@@ -1,0 +1,21 @@
+CustomerID,Gender,Age,Contract,MonthlyCharges,TotalCharges,Churn
+1,Female,25,Month-to-Month,65.7,156.5,No
+2,Male,37,One Year,89.0,2356.8,No
+3,Male,52,Two Year,115.5,5408.6,No
+4,Female,30,Month-to-Month,75.9,129.4,Yes
+5,Male,45,One Year,98.2,3142.0,No
+6,Female,55,Two Year,99.9,6541.5,No
+7,Male,32,Month-to-Month,82.1,267.7,Yes
+8,Female,28,Month-to-Month,61.5,346.9,No
+9,Male,48,One Year,101.8,5149.6,Yes
+10,Female,60,Two Year,108.1,6742.8,Yes
+11,Male,42,Month-to-Month,78.9,547.6,No
+12,Female,35,One Year,94.7,1950.2,No
+13,Male,41,Two Year,96.5,4188.1,No
+14,Male,38,Month-to-Month,79.1,148.2,Yes
+15,Female,50,One Year,105.5,4759.1,Yes
+16,Male,47,Two Year,112.3,5432.0,Yes
+17,Female,26,Month-to-Month,68.2,289.1,No
+18,Male,33,Month-to-Month,75.5,462.5,Yes
+19,Female,31,One Year,85.9,1673.8,No
+20,Male,39,Two Year,97.1,3992.4,No
